@@ -87,7 +87,7 @@ The frontend receives the API URL at image build time through `VITE_API_URL`.
 
 ## Submission note
 
-The required course and lesson workflow was tested with Docker Compose and is working. No known runtime issues remain. 
+The required course and lesson workflow was tested with Docker Compose and the API endpoints were tested with Postman. No known runtime issues remain.
 
 ## AI Usage Report
 
