@@ -92,10 +92,11 @@ The required course and lesson workflow was tested with Docker Compose and is wo
 ## AI Usage Report
 
 - AI tool used: ChatGpt, Claude
-- What I used AI for: Reviewing the requirements, drafting small code changes, write styles.css, README.
+- What I used AI for: Reviewing the requirements, drafting small code changes, writing styles.css and the README.
 - Additional tools: Prettier was used for formatting.
 - 2–3 example prompts:
   - "Check that the API validates required course and lesson titles and that lesson completion accepts booleans only."
   - "Review the project against the task requirements and identify missing submission documentation."
+  - "Help style the frontend using a soft orange colour palette."
 - What I changed manually: Reviewed and adjusted the project structure, API behavior, frontend behavior, Docker configuration. I also ran the build and Compose validation commands.
 - What was difficult: Keeping the frontend state synchronized after course and lesson mutations and configuring the frontend container to use the backend API URL.
